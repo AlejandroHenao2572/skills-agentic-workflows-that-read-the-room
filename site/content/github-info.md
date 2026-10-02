@@ -17,7 +17,6 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Workflow automation
 
-- **Agentic workflows can keep repository content current.** GitHub's Agentic Workflows documentation describes how to combine scheduled automation with approved tools and safe outputs, so maintenance tasks can propose changes without writing directly to the default branch.
-- **Use safe outputs for reviewable updates.** A workflow can create a pull request containing only the files it is authorized to change, giving maintainers a focused review before publication.
+- **Agentic workflows can automate safe pull requests.** Use GitHub's agentic workflow automation to propose repository changes via draft pull requests, ensuring all updates are reviewable and never written directly to the default branch. This approach leverages safe outputs and scheduled automation for reliable, auditable maintenance.
 
-Sources: [GitHub Agentic Workflows documentation](https://github.github.com/gh-aw/), [GitHub Blog](https://github.blog/latest/), [GitHub Changelog](https://github.blog/changelog/).
+Sources: [GitHub Agentic Workflows documentation](https://github.github.com/gh-aw/), [GitHub Blog](https://github.blog/latest/), [GitHub Changelog](https://github.blog/changelog/), [Awesome Copilot Workflows](https://awesome-copilot.github.com/workflows/).
