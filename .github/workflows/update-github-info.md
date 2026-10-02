@@ -1,7 +1,7 @@
 ---
 name: update-github-info
 engine: copilot
-model: gpt-5.5
+model: gpt-4.1
 on:
   schedule: daily
   workflow_dispatch:
